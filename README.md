@@ -34,9 +34,9 @@ A Python-based script to evaluate the complexity of a password and provide actio
 ## Usage
 
 1. Clone or download this repository.
-	'''bash
+	```bash
 	git clone https://github.com/PavinDas/PasswordChecker
-	'''
+	```
 2. Run the script:
 
     ```bash
