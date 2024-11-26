@@ -53,9 +53,11 @@ Enter a password to analyze: Example@123
 
 Password Strength:  Strong
 Score:  6 / 6
+```
 
 ## If Improvements Needed
 
+```
 Enter a password to analyze: weakpass
 
 Password Strength:  Weak
@@ -66,3 +68,4 @@ Suggestions to improve your password:
  - Use a longer password with at least 8 characters.
 
 
+```
